@@ -8,13 +8,6 @@ import base64
 
 
 
-"""
-secret 2LJixYXahYPgeM8Yt6Z697b8HVcQ
-token = account-16XicxGVUGe4K8t2ujdp
-
-"""
-
-
 def sep():
     print("___________________________________________________________________________________________________")
 
